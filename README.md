@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Front End Devoloper 
+I am Front End Devoloper | Full Stack Devoloper
 
 
 ## 🌐 Socials:
