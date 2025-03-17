@@ -40,9 +40,7 @@ I am Front End Devoloper | Full Stack Devoloper
   <a href="https://golang.org/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40" style="vertical-align: middle;"/>
   </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" style="vertical-align: middle;"/>
-  </a>
+ 
 </p>
 
 
