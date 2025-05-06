@@ -3,7 +3,7 @@ I am Front End Devoloper | Full Stack Devoloper
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
